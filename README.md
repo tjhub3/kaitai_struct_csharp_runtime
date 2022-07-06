@@ -1,5 +1,8 @@
 # Kaitai Struct: runtime library for C# / .NET
 
+[![NuGet version](https://img.shields.io/nuget/v/KaitaiStruct.Runtime.CSharp)](https://www.nuget.org/packages/KaitaiStruct.Runtime.CSharp/)
+[![NuGet downloads](https://img.shields.io/nuget/dt/KaitaiStruct.Runtime.CSharp)](https://www.nuget.org/packages/KaitaiStruct.Runtime.CSharp/#:~:text=%20total%20downloads)
+
 This library implements Kaitai Struct API for C#.
 
 Kaitai Struct is a declarative language used for describe various binary
@@ -13,7 +16,7 @@ Further reading:
 
 ## Licensing
 
-Copyright 2016-2019 Kaitai Project: MIT license
+Copyright 2016-2020 Kaitai Project: MIT license
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
